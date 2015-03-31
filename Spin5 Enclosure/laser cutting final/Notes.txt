@@ -1,0 +1,1 @@
+Remember to increase the width of the slots in the 5mm acrylic to 3.2mm in Inventor. Anything less and the tolerance of the 3mm acrylic thickness becomes an issue.
